@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/kryptobabe/static/css/main.f5fd98a1.css",
+    "main.js": "/kryptobabe/static/js/main.fd1e10cb.js",
+    "static/js/787.b6f0851e.chunk.js": "/kryptobabe/static/js/787.b6f0851e.chunk.js",
+    "static/media/fraction.cjs": "/kryptobabe/static/media/fraction.a641cd80e2310e4e5e60.cjs",
+    "static/media/logo.svg": "/kryptobabe/static/media/logo.ba5e309abadff23fef354ee4ab537626.svg",
+    "static/media/submit-icon.svg": "/kryptobabe/static/media/submit-icon.df6311ef7bd1383b2860a218cc7d01a4.svg",
+    "static/media/pagination-arrow.svg": "/kryptobabe/static/media/pagination-arrow.e21b39464a11475d1397ae4bb52a177f.svg",
+    "static/media/select-icon.svg": "/kryptobabe/static/media/select-icon.bd2e95499d73462213dd5e222d294013.svg",
+    "index.html": "/kryptobabe/index.html",
+    "static/media/search-icon.svg": "/kryptobabe/static/media/search-icon.523d9a8cb9ecb1aa8d160bd7e4e815a6.svg",
+    "static/media/index.cjs": "/kryptobabe/static/media/index.cd351d7c31d0d3fccf96.cjs",
+    "main.f5fd98a1.css.map": "/kryptobabe/static/css/main.f5fd98a1.css.map",
+    "main.fd1e10cb.js.map": "/kryptobabe/static/js/main.fd1e10cb.js.map",
+    "787.b6f0851e.chunk.js.map": "/kryptobabe/static/js/787.b6f0851e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f5fd98a1.css",
+    "static/js/main.fd1e10cb.js"
+  ]
+}
